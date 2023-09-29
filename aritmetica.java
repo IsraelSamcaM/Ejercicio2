@@ -8,6 +8,7 @@ public class aritmetica{
         return suma;
     }
     public int multiplicacion(){
+        //Alvarez Corrales Henrique
         int a = 5 ;
         int b = 7 ;
         int mul = 1 * b ;
