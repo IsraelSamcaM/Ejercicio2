@@ -1,5 +1,5 @@
 public class aritmetica{
-    
+
     public int suma(){
         //Samca Montaño Jose Israel
         int a = 3;
@@ -7,4 +7,5 @@ public class aritmetica{
         int suma  = a+b;
         return suma;
     }
+    
 }
