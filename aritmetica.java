@@ -1,4 +1,5 @@
 public class aritmetica{
+    
     public int suma(){
         //Samca Montaño Jose Israel
         int a = 3;
